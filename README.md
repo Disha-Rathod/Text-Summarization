@@ -6,3 +6,5 @@ basis of the data received, we provide appropriate summary for the same.
 
 Front-end is made using tkinter.
 Use Spyder to run the code.
+
+Thank you
