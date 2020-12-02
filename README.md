@@ -16,3 +16,5 @@ Advance master branch
 feature branch
 
 another feature line
+
+bug line
