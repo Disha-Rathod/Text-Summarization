@@ -17,4 +17,4 @@ feature branch
 
 another feature line
 
-bug line
+bug line again 
